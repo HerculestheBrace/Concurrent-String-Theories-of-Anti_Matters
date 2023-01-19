@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+html,
+body {
+  font-family: 'Roboto', cursive;  
+  padding: 5rem;
+  height: 100%;
+ 
+}
+
+
+$final bool isPass;
+$final String {hint ::target-text}
+$final TextInputType {textInputType: content}
+$const TextFieldInput {{key? key}; set Text-field: area = *100%: pass to index(%mutUint32%/%immutUint64%);
+set object = kalloc%immutUint64%;
+set object = pointer%mutUint32%;
+
+
+Stateless widget {
+  r flag-EditingController:: {font-language-override: padding: OR scroll-margin-inline:
+        [start margin-inline= (series-index[0]; $text-string="") ], [end margin-inline= (series-index[j-n-1]; $text-string="")];
+        where $font-type HasIterableFunction; Iter*2.count[series-index[i], ::-webkit-value]::marker=r textEditingController};
+         
+         :required this.isPass. required(this.hintText,)
+         required this. testInputtypes});
+
+
+         context) {
+           ineInputBorder(
+             r.createBorderSide(:host-context(liquid-container OR inline.container-flex);
+             class_LoginScreenState extends
+                   State< LoginScreen > {
+                     @override
+                     Widget build (BuildContent :host-context(
+                       return Scaffold (
+                         body: SafeArea(
+                           child: container(
+                             padding: const EdgeInsets.symmetric
+                                   (horizontal: 32),
+                                   width: double.infinity,
+                                   child: column (
+                                     crossAxisAlignment: CrossAxisAlignment.center,
+                                     children: {
+                                       // svg image
+                                       SvgPicture.asset(assetName)
+                                       /('assets/ie_instagram.svg'),
+                                       color: primaryColor,
+                                       height:64,),
+                                     
+                           ),
+                           // SvgPicture.asset
+                           const SizedBox (height:64)
+                           text field(widgets)
+                            test_field_input_dart
+                            import 'package:flutter/material.dart';
+                            class TextFieldInput extendsStatelessWidget: {
+                              const TextFieldInput
+                                   ({key? key}): super(key:key);
+                                   @ override
+                                   Widget build (BuildContext context) {
+                                          return Container ();
+                                               TextField(
+                                                 controller:
+                                   }
+                            }
+                                               )
+
